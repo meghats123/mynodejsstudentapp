@@ -1,0 +1,16 @@
+{
+  "name": "student-mongoose",
+  "version": "1.0.0",
+  "description": "new project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "megha ts",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.13"
+  }
+}
